@@ -7,7 +7,7 @@ title:               Yixuan
 tagline:             '厨娘界元老, 书呆界新人.'
 description:         '尘世间一只迷途小书虫.'
 url:                 http://stardust.me
-baseurl:             
+baseurl:             ""
 paginate:            7
 
 # About/contact
