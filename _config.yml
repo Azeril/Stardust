@@ -1,0 +1,39 @@
+# Dependencies
+markdown:            kramdown
+highlighter:         rouge
+
+# Setup
+title:               Yixuan
+tagline:             '厨娘界元老, 书呆界新人.'
+description:         '尘世间一只迷途小书虫.'
+url:                 http://stardust.me
+baseurl:             
+paginate:            7
+
+# About/contact
+author:
+  name:              Yixuan Li
+  url:               https://www.macundexiatian.com
+  email:             liyixuan5402@gmail.com
+
+# Gems (for Jekyll 3.0)
+gems: [jekyll-paginate]
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Custom vars
+version:             3.1
+
+# Social Media
+github:              YixuanFranco
+twitter:             Yixuan5402
+disqus:       
+
+# Theme Author (Please don't edit this line cause of MIT LICENSE rules)
+theme:
+  creator:			Yixuan Li
+  codename:			Geek-green
+  link:         https://github.com/YixuanFranco
+
